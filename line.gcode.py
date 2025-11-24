@@ -1,0 +1,10 @@
+# example line.gcode for the lab (4 segments)
+M5
+G1 S47.847 E57.273
+M3
+G1 S51.987 E45.463
+G1 S55.124 E34.632
+G1 S57.116 E24.561
+G1 S57.581 E15.152
+M5
+M18
